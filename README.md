@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/zaid786-collab/LeetCode/tree/master/0027-remove-element) |
+| [0148-sort-list](https://github.com/zaid786-collab/LeetCode/tree/master/0148-sort-list) |
 | [0344-reverse-string](https://github.com/zaid786-collab/LeetCode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/zaid786-collab/LeetCode/tree/master/0455-assign-cookies) |
 | [0821-shortest-distance-to-a-character](https://github.com/zaid786-collab/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/zaid786-collab/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zaid786-collab/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/zaid786-collab/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/zaid786-collab/LeetCode/tree/master/0455-assign-cookies) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/zaid786-collab/LeetCode/tree/master/0148-sort-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/zaid786-collab/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/zaid786-collab/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zaid786-collab/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/zaid786-collab/LeetCode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -262,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/zaid786-collab/LeetCode/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/zaid786-collab/LeetCode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
