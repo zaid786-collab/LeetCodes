@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/zaid786-collab/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/zaid786-collab/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/zaid786-collab/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
+| [1021-remove-outermost-parentheses](https://github.com/zaid786-collab/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1332-remove-palindromic-subsequences](https://github.com/zaid786-collab/LeetCode/tree/master/1332-remove-palindromic-subsequences) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/zaid786-collab/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/zaid786-collab/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/zaid786-collab/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/zaid786-collab/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/zaid786-collab/LeetCode/tree/master/0739-daily-temperatures) |
+| [1021-remove-outermost-parentheses](https://github.com/zaid786-collab/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/zaid786-collab/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Bracket Sequences
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/zaid786-collab/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/zaid786-collab/LeetCode/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/zaid786-collab/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/zaid786-collab/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/zaid786-collab/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Math
 |  |
