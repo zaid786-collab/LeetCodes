@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/zaid786-collab/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/zaid786-collab/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/zaid786-collab/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/zaid786-collab/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/zaid786-collab/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/zaid786-collab/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/zaid786-collab/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/zaid786-collab/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/zaid786-collab/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/zaid786-collab/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/zaid786-collab/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/zaid786-collab/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/zaid786-collab/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/zaid786-collab/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -292,4 +294,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/zaid786-collab/LeetCode/tree/master/0022-generate-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/zaid786-collab/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/zaid786-collab/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
