@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/zaid786-collab/LeetCode/tree/master/0070-climbing-stairs) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/zaid786-collab/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/zaid786-collab/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2235-add-two-integers](https://github.com/zaid786-collab/LeetCode/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/zaid786-collab/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/zaid786-collab/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/zaid786-collab/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
