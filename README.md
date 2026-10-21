@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/zaid786-collab/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/zaid786-collab/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/zaid786-collab/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/zaid786-collab/LeetCode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1652-defuse-the-bomb](https://github.com/zaid786-collab/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1710-maximum-units-on-a-truck](https://github.com/zaid786-collab/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/zaid786-collab/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/zaid786-collab/LeetCode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1332-remove-palindromic-subsequences](https://github.com/zaid786-collab/LeetCode/tree/master/1332-remove-palindromic-subsequences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/zaid786-collab/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/zaid786-collab/LeetCode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/zaid786-collab/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2396-strictly-palindromic-number](https://github.com/zaid786-collab/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/zaid786-collab/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/zaid786-collab/LeetCode/tree/master/0969-pancake-sorting) |
 | [1029-two-city-scheduling](https://github.com/zaid786-collab/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/zaid786-collab/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/zaid786-collab/LeetCode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/zaid786-collab/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/zaid786-collab/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/zaid786-collab/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
