@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/zaid786-collab/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/zaid786-collab/LeetCode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/zaid786-collab/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Prefix Sum
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/zaid786-collab/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/zaid786-collab/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0969-pancake-sorting](https://github.com/zaid786-collab/LeetCode/tree/master/0969-pancake-sorting) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/zaid786-collab/LeetCode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1332-remove-palindromic-subsequences](https://github.com/zaid786-collab/LeetCode/tree/master/1332-remove-palindromic-subsequences) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/zaid786-collab/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2396-strictly-palindromic-number](https://github.com/zaid786-collab/LeetCode/tree/master/2396-strictly-palindromic-number) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/zaid786-collab/LeetCode/tree/master/0070-climbing-stairs) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/zaid786-collab/LeetCode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/zaid786-collab/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/zaid786-collab/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/zaid786-collab/LeetCode/tree/master/2235-add-two-integers) |
@@ -311,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/zaid786-collab/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Interactive
+|  |
+| ------- |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/zaid786-collab/LeetCode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 <!---LeetCode Topics End-->
