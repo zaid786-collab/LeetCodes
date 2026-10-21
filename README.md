@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/zaid786-collab/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1089-duplicate-zeros](https://github.com/zaid786-collab/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/zaid786-collab/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/zaid786-collab/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1652-defuse-the-bomb](https://github.com/zaid786-collab/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1710-maximum-units-on-a-truck](https://github.com/zaid786-collab/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/zaid786-collab/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/zaid786-collab/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/zaid786-collab/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/zaid786-collab/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/zaid786-collab/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/zaid786-collab/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/zaid786-collab/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/zaid786-collab/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/zaid786-collab/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/zaid786-collab/LeetCode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/zaid786-collab/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/zaid786-collab/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Prefix Sum
 |  |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/zaid786-collab/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/zaid786-collab/LeetCode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1332-remove-palindromic-subsequences](https://github.com/zaid786-collab/LeetCode/tree/master/1332-remove-palindromic-subsequences) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/zaid786-collab/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/zaid786-collab/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2396-strictly-palindromic-number](https://github.com/zaid786-collab/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/zaid786-collab/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/zaid786-collab/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0969-pancake-sorting](https://github.com/zaid786-collab/LeetCode/tree/master/0969-pancake-sorting) |
 | [1029-two-city-scheduling](https://github.com/zaid786-collab/LeetCode/tree/master/1029-two-city-scheduling) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/zaid786-collab/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1710-maximum-units-on-a-truck](https://github.com/zaid786-collab/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/zaid786-collab/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/zaid786-collab/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
