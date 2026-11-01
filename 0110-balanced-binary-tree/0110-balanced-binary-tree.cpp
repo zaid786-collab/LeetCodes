@@ -11,6 +11,7 @@ class Solution {
             return -1;
         }
 
+        // In a balanced binary tree leftheight - rightheight cannot be more then 1.
         if(abs(leftht - rightht) > 1) {
             return -1;
         }
