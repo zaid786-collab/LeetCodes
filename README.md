@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/zaid786-collab/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/zaid786-collab/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/zaid786-collab/LeetCode/tree/master/1471-the-k-strongest-values-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/zaid786-collab/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1652-defuse-the-bomb](https://github.com/zaid786-collab/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1710-maximum-units-on-a-truck](https://github.com/zaid786-collab/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/zaid786-collab/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/zaid786-collab/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/zaid786-collab/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/zaid786-collab/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [3903-smallest-stable-index-i](https://github.com/zaid786-collab/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/zaid786-collab/LeetCode/tree/master/3904-smallest-stable-index-ii) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/zaid786-collab/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/zaid786-collab/LeetCode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/zaid786-collab/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/zaid786-collab/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/zaid786-collab/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/zaid786-collab/LeetCode/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/zaid786-collab/LeetCode/tree/master/2396-strictly-palindromic-number) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/zaid786-collab/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/zaid786-collab/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/zaid786-collab/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/zaid786-collab/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
