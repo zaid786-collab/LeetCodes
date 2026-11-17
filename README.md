@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/zaid786-collab/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/zaid786-collab/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2109-adding-spaces-to-a-string](https://github.com/zaid786-collab/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/zaid786-collab/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/zaid786-collab/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2409-count-days-spent-together](https://github.com/zaid786-collab/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/zaid786-collab/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/zaid786-collab/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2073-time-needed-to-buy-tickets](https://github.com/zaid786-collab/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2109-adding-spaces-to-a-string](https://github.com/zaid786-collab/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/zaid786-collab/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/zaid786-collab/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/zaid786-collab/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
