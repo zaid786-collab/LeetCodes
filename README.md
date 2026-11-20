@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/zaid786-collab/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0938-range-sum-of-bst](https://github.com/zaid786-collab/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/zaid786-collab/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1302-deepest-leaves-sum](https://github.com/zaid786-collab/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [2236-root-equals-sum-of-children](https://github.com/zaid786-collab/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/zaid786-collab/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0938-range-sum-of-bst](https://github.com/zaid786-collab/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/zaid786-collab/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1302-deepest-leaves-sum](https://github.com/zaid786-collab/LeetCode/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/zaid786-collab/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0938-range-sum-of-bst](https://github.com/zaid786-collab/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/zaid786-collab/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1302-deepest-leaves-sum](https://github.com/zaid786-collab/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [2236-root-equals-sum-of-children](https://github.com/zaid786-collab/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/zaid786-collab/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/zaid786-collab/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/zaid786-collab/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [1302-deepest-leaves-sum](https://github.com/zaid786-collab/LeetCode/tree/master/1302-deepest-leaves-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
