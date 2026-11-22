@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/zaid786-collab/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/zaid786-collab/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2109-adding-spaces-to-a-string](https://github.com/zaid786-collab/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/zaid786-collab/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/zaid786-collab/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/zaid786-collab/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2409-count-days-spent-together](https://github.com/zaid786-collab/LeetCode/tree/master/2409-count-days-spent-together) |
