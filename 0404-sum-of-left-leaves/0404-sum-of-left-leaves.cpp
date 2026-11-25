@@ -7,6 +7,7 @@ public:
             return 0;
         }
 
+        // Check if the left child is not null and it is also leaf node.
         if(root->left != NULL &&
         root->left->left == NULL 
         && root->left->right == NULL) {
