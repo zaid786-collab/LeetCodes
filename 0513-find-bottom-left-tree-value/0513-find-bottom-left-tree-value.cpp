@@ -9,10 +9,7 @@ public:
         }
 
         depth++;
-        // if(root->left != NULL && root->left->left == NULL && root->left->right == NULL) {
-        //     ans = root->left->val;
-        // }
-
+    
         if(maxdepth < depth) {
             maxdepth = depth;
             ans = root->val;
